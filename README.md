@@ -1,6 +1,5 @@
-# Computer-Graphics-Project
-
-Project Title -   
+# Gaming Arena
+  
 Faculty Name  -   Dr. Rajesh Khanna
 
 Team Members:-
@@ -14,4 +13,11 @@ Team Members:-
 8. Rudra Prasad Sahu  19BCE1625
 
 
-Abstract:
+## Description
+
+This project aims at making a one time stop for old time gamers. 
+The gaming arena will consist of 8 games which utilizes the basic concepts 
+of computer graphics such as rendering, clipping etc. The project will consist of
+an initial welcome page where user can select which game he/she wants to play, the game 
+which is chosen will hence start. Each of the member of this project is responsible for making 
+an individual game and for the integration of the same. 
