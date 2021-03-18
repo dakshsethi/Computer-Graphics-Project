@@ -1,5 +1,7 @@
 # Computer-Graphics-Project
-This is VIT Computer Graphics Project for Dr. Rajesh Khanna Sir
+
+Project Title -   
+Faculty Name  -   Dr. Rajesh Khanna
 
 Team Members:-
 1. Daksh Sethi        19BCE1753
@@ -10,3 +12,6 @@ Team Members:-
 6. Siddhant Roy       19BCE1181
 7. Ayush Dhiman       19BCE1463
 8. Rudra Prasad Sahu  19BCE1625
+
+
+Abstract:
